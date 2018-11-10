@@ -6,4 +6,4 @@
 ## 起動
 * bundle exec rake db:migrate
 * bundle exec rails s
-* ブラウザで`http://localhost:3000`にアクセス`
+* ブラウザで`http://localhost:3000`にアクセス
